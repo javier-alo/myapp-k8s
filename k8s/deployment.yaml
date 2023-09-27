@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: javieralopa/myapp:1.0.0
+        image: javieralopa/myapp:1.0.2
         imagePullPolicy: Always
         ports:
         - containerPort: 5000
